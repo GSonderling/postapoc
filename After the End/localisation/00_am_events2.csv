@@ -1672,4 +1672,5 @@ EVTOPT_RIP_11053_sales;What a bargain!;;;;;;;;;;;;;x
 EVTOPT_RIP_11053_madsci;Great Scott!;;;;;;;;;;;;;x
 EVTOPT_RIP_11053_butcher;I'm sure [recruited_physician_target.GetFullName] will serve me well.;;;;;;;;;;;;;x
 
-
+CB_NAME_CALIFORNIA_IMPERIAL;Imperial Dominance;;;;;;;;;;;;;x,,,,,,,,,,,,,,
+WAR_NAME_CALIFORNIA_IMPERIAL;Imperial Domination;;;;;;;;;;;;;x,,,,,,,,,,,,,,
